@@ -9,7 +9,7 @@ export class Root extends React.Component{
 				<div className="container">
 					<div className="row">
 						<div className="col-xs-10 col-xs-offset-1">
-							<Header/>
+							<h1>Header Page</h1>
 						</div>
 					</div>
 					<div className="row">
